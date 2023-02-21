@@ -30,3 +30,6 @@ If you run in the dev container these will be installed for you, but otherwise y
 ## Packaging
 Instructions coming soon
 
+## Known Issues
+* Rust/Tauri fails compilation on MacOS Docker when using the VirtioFS file sharing implementation (PRs welcome if you know a solution to this)
+
